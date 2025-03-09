@@ -5,11 +5,11 @@
 4.Raisul Akram (2408107010107) <br>
 5.Fayla Syifa Rustam (2408107010029)
 
-**Deskripsi singkat program**
+**Deskripsi singkat program** <br>
 Program ini adalah sebuah sistem antrean bank yang dirancang untuk mengelola nasabah menggunakan struktur data Queue dan Stack. Program ini memungkinkan pengguna untuk menambah nasabah ke dalam antrean dengan memilih jenis layanan seperti Setor Tunai, Tarik Tunai, atau Pembukaan Rekening. Setelah nasabah terdaftar dalam antrean, pengguna dapat memproses nasabah yang ada, menampilkan antrean yang sedang berlangsung, serta melihat riwayat layanan nasabah yang sudah dilayani. Selain itu, program ini juga dilengkapi dengan fitur undo, yang memungkinkan pengguna untuk membatalkan transaksi terakhir dan mengembalikan nasabah ke antrean.
 
 
-**Instruksi kompilasi dan cara menjalankan program**
+**Instruksi kompilasi dan cara menjalankan program** <br>
 Sebelum mulai mengkompilasi, pastikan kamu sudah memiliki file kode sumber yang diperlukan, yaitu:
 **main.c**: Program utama yang mengelola antrean nasabah.
 **queue.c**: File untuk mengelola antrean (Queue).
