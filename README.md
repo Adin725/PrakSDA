@@ -3,7 +3,7 @@
 2.Putroe Fatimah Azzahra (2408107010002)
 3.Teuku Al Jumanatul Ali (2408107010016)
 4.Raisul Akram (2408107010107)
-5.
+5.Fayla Syifa Rustam (2408107010029)
 
 **Deskripsi singkat program**
 Program ini adalah sebuah sistem antrean bank yang dirancang untuk mengelola nasabah menggunakan struktur data Queue dan Stack. Program ini memungkinkan pengguna untuk menambah nasabah ke dalam antrean dengan memilih jenis layanan seperti Setor Tunai, Tarik Tunai, atau Pembukaan Rekening. Setelah nasabah terdaftar dalam antrean, pengguna dapat memproses nasabah yang ada, menampilkan antrean yang sedang berlangsung, serta melihat riwayat layanan nasabah yang sudah dilayani. Selain itu, program ini juga dilengkapi dengan fitur undo, yang memungkinkan pengguna untuk membatalkan transaksi terakhir dan mengembalikan nasabah ke antrean.
