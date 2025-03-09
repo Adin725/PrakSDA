@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "queue."
+#include "queue.h"
 
 // Fungsi untuk membuat Queue
 Queue* buatQueue() {
