@@ -18,9 +18,9 @@ Sebelum mulai mengkompilasi, pastikan kamu sudah memiliki file kode sumber yang 
 **stack.h**: Deklarasi untuk riwayat transaksi (Stack).
 
 Pastikan semua file tersebut berada dalam folder yang sama di komputer kamu. Misalnya, kamu bisa simpan semua file tersebut di dalam folder bernama **TugasPrakSDA1**
-**Kompilasi Program**
+**Kompilasi Program** <br>
 gcc main.c queue.c stack.c -o TugasPrakSDA1
-**Menjalankan Program**
+**Menjalankan Program** <br>
 ./TugasPrakSDA1
 
 **Penjelasan struktur program dan implementasi struktur data**
