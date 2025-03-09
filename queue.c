@@ -4,7 +4,7 @@
 #include "queue.h"
 
 // Fungsi untuk membuat Queue
-Queue* buatQueu() {
+Queue* buatQueue() {
     Queue* q = (Queue*)malloc(sizeof(Queue));
     q->front = NULL;
     q->rear = NULL;
