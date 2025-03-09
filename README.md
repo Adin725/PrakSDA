@@ -9,7 +9,7 @@
 Program ini adalah sebuah sistem antrean bank yang dirancang untuk mengelola nasabah menggunakan struktur data Queue dan Stack. Program ini memungkinkan pengguna untuk menambah nasabah ke dalam antrean dengan memilih jenis layanan seperti Setor Tunai, Tarik Tunai, atau Pembukaan Rekening. Setelah nasabah terdaftar dalam antrean, pengguna dapat memproses nasabah yang ada, menampilkan antrean yang sedang berlangsung, serta melihat riwayat layanan nasabah yang sudah dilayani. Selain itu, program ini juga dilengkapi dengan fitur undo, yang memungkinkan pengguna untuk membatalkan transaksi terakhir dan mengembalikan nasabah ke antrean.
 
 
-**Instruksi kompilasi dan cara menjalankan program** <br>
+**Instruksi kompilasi dan cara menjalankan program** <br> 
 Sebelum mulai mengkompilasi, pastikan kamu sudah memiliki file kode sumber yang diperlukan, yaitu: <br>
 1.**main.c**: Program utama yang mengelola antrean nasabah. <br>
 2.**queue.c**: File untuk mengelola antrean (Queue). <br>
@@ -33,7 +33,7 @@ Program ini menggunakan dua struktur data utama untuk mengelola antrean nasabah 
 Struktur program ini terorganisir dengan baik, di mana setiap file memiliki tugasnya masing-masing, yaitu:
 queue.c mengelola antrean, stack.c mengelola riwayat transaksi, dan main.c mengatur alur interaksi dengan pengguna.
 
-**Screenshot hasil eksekusi program** <br>
+**Screenshot hasil eksekusi program** <br> :
 https://github.com/Bighailyyy/FOTO
 
 
