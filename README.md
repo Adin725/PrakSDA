@@ -30,7 +30,7 @@ Program ini menggunakan dua struktur data utama untuk mengelola antrean nasabah 
 
 **Stack (Riwayat Transaksi)** juga diimplementasikan menggunakan Linked List. Stack ini menyimpan riwayat transaksi nasabah yang sudah dilayani. Setiap kali transaksi selesai, data nasabah disimpan di Stack menggunakan fungsi push. Jika transaksi dibatalkan, data nasabah diambil dari Stack menggunakan fungsi pop, dan nasabah tersebut dikembalikan ke antrean dengan fungsi enqueue.
 
-Struktur program ini terorganisir dengan baik, di mana setiap file memiliki tugas, yaitu:
+Struktur program ini terorganisir dengan baik, di mana setiap file memiliki tugasnya masing-masing, yaitu:
 queue.c mengelola antrean, stack.c mengelola riwayat transaksi, dan main.c mengatur alur interaksi dengan pengguna.
 
 **Screenshot hasil eksekusi program**
