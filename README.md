@@ -17,9 +17,9 @@ Sebelum mulai mengkompilasi, pastikan kamu sudah memiliki file kode sumber yang 
 **queue.h**: Deklarasi untuk antrean (Queue).
 **stack.h**: Deklarasi untuk riwayat transaksi (Stack).
 
-Pastikan semua file tersebut berada dalam folder yang sama di komputer kamu. Misalnya, kamu bisa simpan semua file tersebut di dalam folder bernama **TugasPrakSDA1**
+Pastikan semua file tersebut berada dalam folder yang sama di komputer kamu. Misalnya, kamu bisa simpan semua file tersebut di dalam folder bernama **TugasPrakSDA1** <br>
 **Kompilasi Program** <br>
-gcc main.c queue.c stack.c -o TugasPrakSDA1
+gcc main.c queue.c stack.c -o TugasPrakSDA1 ,br>
 **Menjalankan Program** <br>
 ./TugasPrakSDA1
 
