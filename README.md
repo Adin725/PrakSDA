@@ -33,7 +33,7 @@ Program ini menggunakan dua struktur data utama untuk mengelola antrean nasabah 
 Struktur program ini terorganisir dengan baik, di mana setiap file memiliki tugasnya masing-masing, yaitu:
 queue.c mengelola antrean, stack.c mengelola riwayat transaksi, dan main.c mengatur alur interaksi dengan pengguna.
 
-**Screenshot hasil eksekusi program** 
+**Screenshot hasil eksekusi program** <br>
 https://github.com/Bighailyyy/FOTO
 
 
