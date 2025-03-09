@@ -23,7 +23,7 @@ gcc main.c queue.c stack.c -o TugasPrakSDA1 <br>
 **Menjalankan Program** <br>
 ./TugasPrakSDA1
 
-**Penjelasan struktur program dan implementasi struktur data**
+**Penjelasan struktur program dan implementasi struktur data** <br>
 Program ini menggunakan dua struktur data utama untuk mengelola antrean nasabah yaitu Queue dan Stack.
 
 **Queue (Antrean)** diimplementasikan menggunakan Linked List. Di sini, nasabah yang pertama kali masuk ke antrean akan dilayani terlebih dahulu (prinsip FIFO - First In, First Out). Setiap nasabah yang mendaftar ditambahkan ke antrean melalui fungsi enqueue, dan saat nasabah diproses, mereka diambil dari antrean menggunakan fungsi dequeue.
@@ -33,7 +33,7 @@ Program ini menggunakan dua struktur data utama untuk mengelola antrean nasabah 
 Struktur program ini terorganisir dengan baik, di mana setiap file memiliki tugasnya masing-masing, yaitu:
 queue.c mengelola antrean, stack.c mengelola riwayat transaksi, dan main.c mengatur alur interaksi dengan pengguna.
 
-**Screenshot hasil eksekusi program**
+**Screenshot hasil eksekusi program** 
 https://github.com/Bighailyyy/FOTO
 
 
