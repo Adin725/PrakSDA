@@ -10,12 +10,12 @@ Program ini adalah sebuah sistem antrean bank yang dirancang untuk mengelola nas
 
 
 **Instruksi kompilasi dan cara menjalankan program** <br>
-Sebelum mulai mengkompilasi, pastikan kamu sudah memiliki file kode sumber yang diperlukan, yaitu:
-**main.c**: Program utama yang mengelola antrean nasabah.
-**queue.c**: File untuk mengelola antrean (Queue).
-**stack.c**: File untuk mengelola riwayat transaksi (Stack).
-**queue.h**: Deklarasi untuk antrean (Queue).
-**stack.h**: Deklarasi untuk riwayat transaksi (Stack).
+Sebelum mulai mengkompilasi, pastikan kamu sudah memiliki file kode sumber yang diperlukan, yaitu: <br>
+1.**main.c**: Program utama yang mengelola antrean nasabah. <br>
+2.**queue.c**: File untuk mengelola antrean (Queue). <br>
+3.**stack.c**: File untuk mengelola riwayat transaksi (Stack). <br>
+4.**queue.h**: Deklarasi untuk antrean (Queue). <br>
+5.**stack.h**: Deklarasi untuk riwayat transaksi (Stack).
 
 Pastikan semua file tersebut berada dalam folder yang sama di komputer kamu. Misalnya, kamu bisa simpan semua file tersebut di dalam folder bernama **TugasPrakSDA1** <br>
 **Kompilasi Program** <br>
