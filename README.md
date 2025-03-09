@@ -2,7 +2,7 @@
 1.Rijaluddin Abdul Ghani (2408107010008)
 2.Putroe Fatimah Azzahra (2408107010002)
 3.Teuku Al Jumanatul Ali (2408107010016)
-4.
+4.Raisul Akram (2408107010107)
 5.
 
 **Deskripsi singkat program**
