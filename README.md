@@ -34,6 +34,7 @@ Struktur program ini terorganisir dengan baik, di mana setiap file memiliki tuga
 queue.c mengelola antrean, stack.c mengelola riwayat transaksi, dan main.c mengatur alur interaksi dengan pengguna.
 
 **Screenshot hasil eksekusi program**
+https://github.com/Bighailyyy/FOTO
 
 
 
