@@ -37,10 +37,10 @@ queue.c mengelola antrean, stack.c mengelola riwayat transaksi, dan main.c menga
 https://github.com/Bighailyyy/FOTO
 
 **6. Kendala dan solusi selama pengembangan** : <br>
-6.1 Pengelolaan/penanganan input yang tidak valid: Awalnya, program tidak dapat menangani input selain angka 1-6, Hal ini menyebabkan program crash jika pengguna memasukkan inputan angka selain 1-6 atau karakter
+6.1 Pengelolaan/penanganan input yang tidak valid: Awalnya, program tidak dapat menangani input selain angka 1-6, Hal ini menyebabkan program crash jika pengguna memasukkan inputan angka selain 1-6 atau karakter <br>
 Solusi: Kami menambahkan validasi input menggunakan fungsi scanf dengan pengecekan yang tepat, ini untuk memastikan hanya angka 1-6 yang diterima sebagai input untuk menu dan pilihan layanan. <br>
 
-6.2 Tampilan yang Tidak Rapi: Awalnya, tampilan tabel antrean dan riwayat transaksi tidak terstruktur dengan baik, sehingga sulit dipahami oleh pengguna.
+6.2 Tampilan yang Tidak Rapi: Awalnya, tampilan tabel antrean dan riwayat transaksi tidak terstruktur dengan baik, sehingga sulit dipahami oleh pengguna. <br>
 Solusi: Kami memperbaiki format output dengan menambahkan pemformatan yang lebih rapi, dengan tabel dengan kolom yang jelas, sehingga informasi lebih mudah dibaca oleh pengguna. <br>
 
 **Terima Kasih**
