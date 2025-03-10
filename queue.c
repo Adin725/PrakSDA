@@ -7,7 +7,7 @@
 Queue* buatQueue() {
     Queue* q = (Queue*)malloc(sizeof(Queue));
     q->front = NULL;
-    q->rear = NUL;
+    q->rear = NULL;
     return q;
 }
 
